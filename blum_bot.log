@@ -1,1 +1,31 @@
 
+12:39:05.76 | INFO | Найдено сессий: 0!
+12:39:05.76 | INFO | Проверяю сессии на валидность!
+12:39:05.76 | SUCCESS | Валидных сессий: 0; Невалидных: 0
+12:44:13.21 | SUCCESS | Добавлена сессия +919007404054 @rryusell PROXY : NONE
+12:44:30.68 | INFO | Найдено сессий: 1!
+12:44:30.68 | INFO | Проверяю сессии на валидность!
+12:44:31.50 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+12:44:49.63 | INFO | main | Thread 0 | altminer | Start! | PROXY : None
+12:45:09.04 | INFO | tasks | Thread 0 | altminer | Summer Quest | TRY DO Join TON Station task!
+12:45:14.41 | INFO | tasks | Thread 0 | altminer | Summer Quest | TRY DO Join ZAVOD & Earn ZP task!
+12:45:18.98 | INFO | tasks | Thread 0 | altminer | Summer Quest | TRY DO Join $NEVERSOL task!
+12:45:23.50 | INFO | tasks | Thread 0 | altminer | Summer Quest | TRY DO Join ProMarket task!
+12:45:30.27 | INFO | tasks | Thread 0 | altminer | Summer Quest | TRY DO Join $BAOM task!
+12:46:04.90 | INFO | main | Thread 0 | altminer | Have 3 diamonds!
+12:46:05.10 | INFO | game | Thread 0 | altminer | Start DROP GAME!
+12:46:35.99 | SUCCESS | game | Thread 0 | altminer | Claimed DROP GAME ! Claimed: 126
+12:49:54.61 | INFO | game | Thread 0 | altminer | Start DROP GAME!
+12:50:25.48 | SUCCESS | game | Thread 0 | altminer | Claimed DROP GAME ! Claimed: 121
+12:53:11.04 | INFO | game | Thread 0 | altminer | Start DROP GAME!
+12:53:41.98 | SUCCESS | game | Thread 0 | altminer | Claimed DROP GAME ! Claimed: 138
+12:56:06.94 | SUCCESS | main | Thread 0 | altminer | Claimed reward! Balance: 22267.2
+12:56:32.57 | SUCCESS | tasks | Thread 0 | altminer | Summer Quest | DONE Join ZAVOD & Earn ZP task!
+12:57:11.71 | INFO | main | Thread 0 | altminer | Have 0 diamonds!
+12:57:11.90 | INFO | main | Thread 0 | altminer | Start farming!
+12:58:11.30 | INFO | main | Thread 0 | altminer | Have 0 diamonds!
+12:58:11.30 | INFO | main | Thread 0 | altminer | Sleep 35046 seconds!
+15:21:01.82 | INFO | Найдено сессий: 1!
+15:21:01.82 | INFO | Проверяю сессии на валидность!
+15:21:02.72 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+15:21:20.26 | INFO | main | Thread 0 | altminer | Start! | PROXY : None
